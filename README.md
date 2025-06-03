@@ -96,7 +96,7 @@ Here are some of my key projects showcasing my skills and interests:
 - 🔗 LinkedIn: [linkedin.com/in/mahdy-mokh7](https://linkedin.com/in/mahdy-mokh7)  
 - 📧 Email: [mh.mokhtari7@gmail.com](mailto:mh.mokhtari7@gmail.com)  
 - 🌐 Portfolio: [MahdyMokhtari7.com](https://MahdyMokhtari7.com)  
-- 💬 Telegram: [@mh_mokh_7](https://t.me/mh_mokh7)  
+- 💬 Telegram: [@mh_mokh7](https://t.me/mh_mokh7)  
 - 📞 Work Phone: +98 9104201197  
 
 
