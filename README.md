@@ -39,6 +39,7 @@ Tools:
 
 <!-- DevOps and Platforms -->
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
@@ -93,9 +94,9 @@ Here are some of my key projects showcasing my skills and interests:
 
 ## 📫 Contact Me
 
-- 🔗 LinkedIn: [linkedin.com/in/mahdy-mokh7](https://linkedin.com/in/mahdy-mokh7)  
+- 🔗 LinkedIn: [linkedin.com/in/mahdy-mokh7](https://linkedin.com/in/mahdy-mokh7)  (not available)
 - 📧 Email: [mh.mokhtari7@gmail.com](mailto:mh.mokhtari7@gmail.com)  
-- 🌐 Portfolio: [MahdyMokhtari7.com](https://MahdyMokhtari7.com)  
+- 🌐 Portfolio: [MahdyMokhtari7.com](https://MahdyMokhtari7.com)    (not available)
 - 💬 Telegram: [@mh_mokh7](https://t.me/mh_mokh7)  
 - 📞 Work Phone: +98 9104201197  
 
