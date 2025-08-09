@@ -82,6 +82,7 @@ Other Areas:
 Here are some of my key projects showcasing my skills and interests:
 
 - [Speech Emotion Recognition](https://github.com/MahdyMokh7/MahdyMokh7-Speech-Emotion-Recognition-en-) — Speech emotion detection using machine learning  
+- [OCR Handwritten Sequence](https://github.com/MahdyMokh7/ocr-handwritten-sequence) - Optical Character Recognition
 - [Data Science MiniProjects](https://github.com/MahdyMokh7/Data-Science-MiniProjects) — A collection of practical data science projects  
 - [Neural Network from Scratch](https://github.com/MahdyMokh7/NN-from-scartch) — Implementing neural networks from scratch 
 - [Hotel Price Prediction & Classification Models](https://github.com/MahdyMokh7/Hotel-price-prediction-Classification-Models) — ML project predicting hotel prices
