@@ -85,6 +85,7 @@ Here are some of my key projects showcasing my skills and interests:
 
 - [Speech Emotion Recognition](https://github.com/MahdyMokh7/MahdyMokh7-Speech-Emotion-Recognition-en-) — Speech emotion detection using machine learning  
 - [OCR Handwritten Sequence](https://github.com/MahdyMokh7/ocr-handwritten-sequence) - Optical Character Recognition
+- [Soccer-Player-Segmentation](https://github.com/MahdyMokh7/Soccer-Player-Segmentation) - Soccer player segmentation using clustering
 - [Persian Question Answering (ParsQA)](https://github.com/MahdyMokh7/ParsQA) - Machine reading comprehension for Persian using Transformers (ParsBERT & XLM-RoBERTa)
 - [LLM Commonsense Reasoning on SWAG](https://github.com/MahdyMokh7/swag-commonsense-llm) - Multiple-choice english commonsense reasoning with BERT and in-context learning
 - [Data Science MiniProjects](https://github.com/MahdyMokh7/Data-Science-MiniProjects) — A collection of practical data science projects  
