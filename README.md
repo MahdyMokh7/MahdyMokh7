@@ -33,7 +33,6 @@ Tools:
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![Pillow](https://img.shields.io/badge/-Pillow-EE4C2C?style=flat-square&logo=pillow&logoColor=white)
-![Transformers](https://img.shields.io/badge/-Transformers-FF6F61?style=flat-square&logo=transformers&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-5A87A1?style=flat-square&logo=seaborn&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Transformers](https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
