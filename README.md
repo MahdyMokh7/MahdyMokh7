@@ -5,6 +5,14 @@ I'm a passionate **programmer** and **data scientist** with 4 years of experienc
 I enjoy challenging problems and trying to deliver data-driven solutions.
 
 Computer Engineering Student at University of Tehran.
+
+---
+
+## Resume
+
+You can download my latest resume here:  
+[Download Resume](https://raw.githubusercontent.com/MahdyMokh7/MahdyMokh7/master/Mehdy%20Mokhtari%20new-CV%20vMain-final.pdf)
+
  
 ---
 
