@@ -81,8 +81,6 @@ Other Areas:
 
 ## ⚡ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahdyMokh7&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahdyMokh7&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdyMokh7&layout=compact&theme=radical)    <!-- Tech Stack - Most Used Languages -->
