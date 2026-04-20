@@ -11,7 +11,7 @@ Computer Engineering Student at University of Tehran.
 ## Resume
 
 You can download my latest resume here:  
-[Download Resume](https://raw.githubusercontent.com/MahdyMokh7/MahdyMokh7/master/Mehdy_Mokhtari_Manual_Resume.pdf)
+[Download Resume](https://raw.githubusercontent.com/MahdyMokh7/MahdyMokh7/master/Mehdy_s_Resume.pdf)
 
  
 ---
