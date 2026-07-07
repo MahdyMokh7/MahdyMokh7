@@ -77,16 +77,33 @@ You can download my latest resume here:
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahdyMokh7&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdyMokh7&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&langs_count=8" />
+  <!-- Your numbers (update these from your GitHub profile) -->
+  
+  <img src="https://img.shields.io/badge/Total%20Stars-⭐%2023-blue?style=for-the-badge&color=ff6b6b" />
+  <img src="https://img.shields.io/badge/Total%20Commits-📝%20421-blue?style=for-the-badge&color=ff6b6b" />
+  <img src="https://img.shields.io/badge/PRs%20Opened-🔀%2012-blue?style=for-the-badge&color=ff6b6b" />
+  <img src="https://img.shields.io/badge/Issues%20Opened-🐛%208-blue?style=for-the-badge&color=ff6b6b" />
   
   <br><br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahdyMokh7&hide_border=true&theme=radical&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" />
+  <img src="https://img.shields.io/badge/Contributions%20(Last%20Year)-📊%20320-blue?style=for-the-badge&color=ff6b6b" />
+  <img src="https://img.shields.io/badge/Current%20Streak-🔥%207%20days-blue?style=for-the-badge&color=ff6b6b" />
+  <img src="https://img.shields.io/badge/Longest%20Streak-🏆%2032%20days-blue?style=for-the-badge&color=ff6b6b" />
   
   <br><br>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=MahdyMokh7&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+  <!-- Language breakdown as badges -->
+  <img src="https://img.shields.io/badge/Python-🐍%2045%25-blue?style=for-the-badge&color=3776AB" />
+  <img src="https://img.shields.io/badge/Java-☕%2025%25-blue?style=for-the-badge&color=007396" />
+  <img src="https://img.shields.io/badge/JavaScript-📜%2012%25-blue?style=for-the-badge&color=F7DF1E" />
+  <img src="https://img.shields.io/badge/C++-⚙️%208%25-blue?style=for-the-badge&color=00599C" />
+  <img src="https://img.shields.io/badge/SQL-🗄️%205%25-blue?style=for-the-badge&color=4479A1" />
+  <img src="https://img.shields.io/badge/Other-📦%205%25-blue?style=for-the-badge&color=gray" />
+  
+  <br><br>
+  
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=MahdyMokh7&label=Profile%20Views&color=ff6b6b&style=for-the-badge" />
   
 </div>
 
