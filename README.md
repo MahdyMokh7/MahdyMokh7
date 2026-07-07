@@ -86,6 +86,7 @@ You can download my latest resume here:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahdyMokh7&hide_border=true&theme=radical&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" />
   
 </div>
+
 ---
 
 ## 📂 Featured Projects
