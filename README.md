@@ -1,17 +1,20 @@
-# Hi 👋, I'm Mahdy
+# Hi 👋, I'm Mehdy
 
 ## About Me
-I'm a passionate **programmer** and **data scientist** with 4 years of experience in machine learning, deep learning, data science, algorithm development, and software projects.  
-I enjoy challenging problems and trying to deliver data-driven solutions.
+I'm a backend engineer and machine learning practitioner with a strong foundation in Java development and data-driven solutions. I bridge the gap between scalable systems and intelligent algorithms—building robust APIs, optimizing performance, and deploying ML models that solve real-world problems.
 
 Computer Engineering Student at University of Tehran.
+Passionate about clean code, system design, and turning data into decisions.
+
 
 ---
 
 ## Resume
 
 You can download my latest resume here:  
-[Download Resume](https://raw.githubusercontent.com/MahdyMokh7/MahdyMokh7/master/Mehdy_s_Resume.pdf)
+[Download AI Resume](https://raw.githubusercontent.com/MahdyMokh7/MahdyMokh7/master/Mehdy_AI_Resume.pdf)
+[Download Full-stack Resume](https://raw.githubusercontent.com/MahdyMokh7/MahdyMokh7/master/Mehdy_Fullstack_Resume.pdf)
+
 
  
 ---
