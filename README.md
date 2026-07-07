@@ -1,7 +1,7 @@
 # Hi 👋, I'm Mehdy
 
 ## About Me
-I'm a backend engineer and machine learning practitioner with a strong foundation in Java development and data-driven solutions. I bridge the gap between scalable systems and intelligent algorithms—building robust APIs, optimizing performance, and deploying ML models that solve real-world problems.
+I'm a backend engineer and machine learning practitioner with a strong foundation in Java development and data-driven solutions. I bridge the gap between scalable systems and intelligent algorithms - building robust APIs, optimizing performance, and deploying ML models that solve real-world problems.
 
 Computer Engineering Student at University of Tehran.
 Passionate about clean code, system design, and turning data into decisions.
