@@ -75,9 +75,20 @@ You can download my latest resume here:
 
 ## ⚡ GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahdyMokh7&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdyMokh7&layout=compact&theme=radical)  
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahdyMokh7&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdyMokh7&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&langs_count=8" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahdyMokh7&hide_border=true&theme=radical&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" />
+  
+  <br><br>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=MahdyMokh7&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+  
+</div>
 
 ---
 
