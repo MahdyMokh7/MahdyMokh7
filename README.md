@@ -110,8 +110,7 @@ Here are some of my key projects showcasing my skills and interests:
 ### 💻 Backend Development
 
 - [Library Management API](https://github.com/MahdyMokh7/library-management-api) — Production-grade Spring Boot REST API with Docker, CI/CD, JPA
-Here's the updated **Featured Projects** section with the **Articles Platform** project added:
-- [Articles Platform](https://github.com/MahdyMokh7/articles-platform) — Full-stack article management platform with Spring Boot REST API, React frontend, PostgreSQL, and JWT-based authentication
+- [Article Platform](https://github.com/MahdyMokh7/article-platform) — Full-stack article management platform with Spring Boot REST API, React frontend, PostgreSQL, and JWT-based authentication
 - [WealthWise Management System](https://github.com/MahdyMokh7/wealthwise) — Java-based financial management system with Maven, Docker, and OOP design principles
 
 ### 🎮 Other Projects
